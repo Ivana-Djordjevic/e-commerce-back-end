@@ -66,7 +66,7 @@ router.put('/:id', async (req, res) => {
       return;
     }
 
-    res.send(categoryData);
+    res.send({ message: 'successfuly updated'});
 
   } catch (err) {
     console.log(err)
@@ -87,7 +87,7 @@ router.delete('/:id', async (req, res) => {
       return;
     }
     res.status(200).json(categoryData);
-    res.send(categoryData)
+    res.send({ message: 'successfully deleted'})
   } catch (err) {
     res.status(500).json(err);
   }
