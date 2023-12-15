@@ -43,7 +43,6 @@ router.post('/', async (req, res) => {
     });
 
     res.status(200).json(newTag);
-    res.send(newTag)
   } catch (err) {
     res.status(400).json(err);
   }

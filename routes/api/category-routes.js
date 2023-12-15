@@ -43,7 +43,6 @@ router.post('/new', async (req, res) => {
     });
 
     res.status(200).json(newCategory);
-    res.send(newCategory)
   } catch (err) {
     res.status(400).json(err);
   }

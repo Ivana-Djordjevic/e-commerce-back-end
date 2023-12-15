@@ -70,7 +70,7 @@ router.post('/', async (req, res) => {
       return ProductTag.bulkCreate(productTagIdArr);
     }
     res.status(200).json(newProduct);
-    res.send(newProduct)
+    // res.send(newProduct)
   } catch (err) {
     console.log(err);
     res.status(400).json(err);
@@ -81,7 +81,7 @@ router.post('/', async (req, res) => {
 router.put('/:id', async (req, res) => {
   // update product data
   try {
-    const productData = await Product.update(req.body, {
+    await Product.update(req.body, {
       where: {
         id: req.params.id
       }
