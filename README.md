@@ -54,4 +54,5 @@ Walkthrough video:
 This application is covered under: MIT License.  
 
 ## Credit 
-
+*
+[UCD readme file](https://git.bootcampcontent.com/University-of-California---Davis/UCD-VIRT-FSF-PT-09-2023-U-LOLC/-/blob/main/13-ORM/02-Challenge/README.md)
