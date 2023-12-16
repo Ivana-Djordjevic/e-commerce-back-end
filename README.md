@@ -38,7 +38,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 Walkthrough video:
 
-[walkthrough video link]() -- broken 
+[walkthrough video link](https://drive.google.com/file/d/142Ah8qhKhAyOYSCY_btWuJf05pn7WHhV/view)
 
 ## Installation
 
@@ -48,6 +48,7 @@ Walkthrough video:
 
 ## Usage
 
+To manage and keep track of a store's inventory.
 
 ## License
 
