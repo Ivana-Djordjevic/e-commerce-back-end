@@ -38,10 +38,9 @@ THEN I am able to successfully create, update, and delete data in my database
 
 Walkthrough video:
 
-[e-commerce-back-end.webm](https://github.com/Ivana-Djordjevic/e-commerce-back-end/assets/127266659/32510a9f-20bb-433c-816e-03d1b28ab778)
+[e-commerce-back-end (1).webm](https://github.com/Ivana-Djordjevic/e-commerce-back-end/assets/127266659/226ebef6-2a3f-4101-a2dc-454f7e06aec1)
 
-
-[walkthrough video link](https://drive.google.com/file/d/142Ah8qhKhAyOYSCY_btWuJf05pn7WHhV/view)
+[walkthrough video link](https://drive.google.com/file/d/1t8RcSr50XgrV19R4IX7qlUEb1idka9PE/view)
 
 ## Installation
 
